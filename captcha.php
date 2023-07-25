@@ -35,7 +35,7 @@ if (isset($_GET['text'])) {
     $text = $_GET['text'];
 
     // Example usage:
-    $fontFile = "path/to/your/font.ttf"; // Replace with the path to your TTF font file
+    $fontFile = "REM-Regular.ttf"; // Replace with the path to your TTF font file
     $fontSize = 24;
     $imageWidth = 300;
     $imageHeight = 100;
